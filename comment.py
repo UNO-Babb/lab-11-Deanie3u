@@ -1,0 +1,2 @@
+I learned that the average wait time for every checker was 2 minutes, shoppers wait their turn at the check out.
+I chanhged the def shopper to many items like each customer will have 5 to 10, or 10 to 20, etc.
